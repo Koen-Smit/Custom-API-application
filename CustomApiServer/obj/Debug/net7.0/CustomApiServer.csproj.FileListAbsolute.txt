@@ -1,0 +1,100 @@
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\CustomApiServer.exe
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\CustomApiServer.deps.json
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\CustomApiServer.runtimeconfig.json
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\CustomApiServer.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\CustomApiServer.pdb
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\MySqlConnector.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\System.Text.Json.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.csproj.AssemblyReference.cache
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.AssemblyInfoInputs.cache
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.AssemblyInfo.cs
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.csproj.CoreCompileInputs.cache
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.csproj.CopyComplete
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\refint\CustomApiServer.dll
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.pdb
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\CustomApiServer.genruntimeconfig.cache
+C:\Projects\_uitwerkingen\CustomApiServerAttributes\CustomApiServer\obj\Debug\net7.0\ref\CustomApiServer.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\CustomApiServer.exe
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\CustomApiServer.deps.json
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\CustomApiServer.runtimeconfig.json
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\CustomApiServer.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\CustomApiServer.pdb
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.csproj.AssemblyReference.cache
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.AssemblyInfoInputs.cache
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.AssemblyInfo.cs
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.csproj.CoreCompileInputs.cache
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomAp.7FE03486.Up2Date
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\refint\CustomApiServer.dll
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.pdb
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\CustomApiServer.genruntimeconfig.cache
+C:\Users\Dhr Smit\Downloads\H2 CustomApiServer-MetAttributesEnTemplates\CustomApiServer\obj\Debug\net7.0\ref\CustomApiServer.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\CustomApiServer.exe
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\CustomApiServer.deps.json
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\CustomApiServer.runtimeconfig.json
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\CustomApiServer.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\CustomApiServer.pdb
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.csproj.AssemblyReference.cache
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.AssemblyInfoInputs.cache
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.AssemblyInfo.cs
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.csproj.CoreCompileInputs.cache
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.sourcelink.json
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomAp.7FE03486.Up2Date
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\refint\CustomApiServer.dll
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.pdb
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\CustomApiServer.genruntimeconfig.cache
+C:\Users\Dhr Smit\Documents\Programming\Projects\project folder\Custom-API-application\CustomApiServer\obj\Debug\net7.0\ref\CustomApiServer.dll

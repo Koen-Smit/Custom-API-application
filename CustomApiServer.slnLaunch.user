@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "CustomApiServer\\CustomApiServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "Custom-API-Page\\Custom-API-Page.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      }
+    ]
+  }
+]
